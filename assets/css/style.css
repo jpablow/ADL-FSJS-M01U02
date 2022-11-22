@@ -3,7 +3,7 @@ html{
 }
 
 header{
-    background-image:url("/Des02/assets/imgs/header_background_img.jpg") ;
+    background-image:url("assets/imgs/header_background_img.jpg") ;
     background-size: cover;
     padding: 10em 5em;
 }
